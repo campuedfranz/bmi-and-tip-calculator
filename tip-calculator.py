@@ -1,4 +1,4 @@
-print("WELCOME TO TIP CALCULATOR")
+print("WELCOME TO TIP CALCULATOR!")
 
 #Get the total bill and save it to a variable
 total_bill = float(input("What was the total bill? $"))
